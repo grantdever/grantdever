@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Grant
-- 👀 I’m interested in software development, energy policy, community building, and leadership
-- 🌱 I’m currently looking for software internships, or a junior position, while I continue to build experience with python and various web frameworks
+- 👀 I’m interested in sales, software development, energy policy, community building, and leadership
 - 💞️ I’m looking to collaborate on projects to help develop my portfolio
 - 📫 How to reach me: grantdever@gmail.com is by far the best way to connect with me
