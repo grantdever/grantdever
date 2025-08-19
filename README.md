@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Grant
-- 👀 I’m interested in sales, software development, energy policy, community building, and leadership
-- 💞️ I’m looking to collaborate on projects to help develop my portfolio
-- 📫 How to reach me: grantdever@gmail.com is by far the best way to connect with me
+Spending my nights and weekends building software that needs to exist in the world. The future is a world with orders of magnitude more code than what exists today. I want to build systems that will be able to scale in a world of abundance.
